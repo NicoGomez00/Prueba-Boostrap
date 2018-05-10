@@ -1,0 +1,20 @@
+
+.slider{
+    background: url(imagenes/img.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: darkblue;
+    text-transform: uppercase;
+}
+
+.parrafos{
+    font-size: 1rem;
+}
+
+.margen{
+    color: black;
+
